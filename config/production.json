@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://arobins222:psp24211b@devconnector.h1sdb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "8c06cbf0ce2ed44f05ff",
+    "githubSecret": "1bef316551d99c7b1f7c625ea6bdf18444387741"
+}
