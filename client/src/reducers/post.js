@@ -15,7 +15,7 @@ const intialState = {
     loading: true,
     error: {}
 }
-
+// eslint-disable-next-line
 export default function(state = intialState, action) {
     const { type, payload } = action;
 
